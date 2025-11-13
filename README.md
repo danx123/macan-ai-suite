@@ -35,7 +35,7 @@ An intelligent conversational interface that merges the capabilities of **Google
 
 ---
 
-### 2. **Macan Remover Pro v5.0**
+### 2. **Macan Remover Pro v5.1**
 A professional-grade **AI background remover** engineered for efficiency and elegance.  
 It leverages the **U²-Net deep learning model** with multiprocessing to deliver accurate results for both single and batch operations.
 
