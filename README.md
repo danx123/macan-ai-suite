@@ -16,6 +16,9 @@ This suite embodies the principle of *technological independence*, developed und
 
 ---
 
+## 📝 Changelog
+- Update Framework
+
 
 ## 🧠 Included Applications
 
